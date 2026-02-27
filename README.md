@@ -116,4 +116,4 @@ theroundtable/
 
 ## License
 
-MIT — do whatever you want with it.
+MIT —please be respectful to each companies rules, this is a cool tool dont abuse it.
