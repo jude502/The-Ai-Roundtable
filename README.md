@@ -2,7 +2,7 @@
 
 > Pose a question. Watch frontier AI models debate each other in real time.
 
-The Roundtable connects Claude, GPT-4o, Gemini, and Grok into a single conversation — each model answers independently, then reads the others' responses and replies directly. You watch it stream live.
+The Roundtable connects Claude, GPT-4o, Gemini, Grok and Llama into a single conversation — each model answers independently, then reads the others' responses and replies directly. You watch it stream live.
 
 ![The Roundtable](https://img.shields.io/badge/models-Claude_%7C_GPT--4o_%7C_Gemini_%7C_Grok-8b5cf6?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-10b981?style=flat-square)
